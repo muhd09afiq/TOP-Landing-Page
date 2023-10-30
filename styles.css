@@ -25,3 +25,18 @@ header {
     justify-content: right;
 
 }
+
+.hero-main-text {
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+hero {
+    display: flex;
+    flex-direction: column;
+}
