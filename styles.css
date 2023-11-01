@@ -60,6 +60,7 @@ hero {
 .hero-main-text {
     color: #f9faf8;
     font-size: 48px;
+    font-weight:bolder;
 
 }
 
@@ -74,7 +75,7 @@ button {
     border-radius: 8px;
     padding-left: 1rem;
     padding-right: 1rem;
-    font-size: 24px;
+    font-size: 20px;
     padding-bottom: 4px;
     padding-top: 4px;
     border: none;
@@ -91,12 +92,25 @@ section {
     padding-left: 10%;
     padding-right: 10%;
     background-color: white;
+
+}
+
+h2 {
     font-size: 36px;
     font-weight: bolder;
     text-align: center;
 }
 
-section header{
-    
+.images-container{
+    display: flex;
+    /* padding-left: 10%;
+    padding-right: 10%; */
+    justify-content: center;
+}
 
+div.images-container img{
+    margin: 2%;
+    border: 5px solid rgb(71, 71, 236);
+    width: 10rem;
+    height: 10rem;
 }
