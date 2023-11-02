@@ -129,4 +129,19 @@ figcaption {
 
 .quote-container{
     display: block;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #E5E7EB;
+    margin-bottom: 12%;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quoter {
+    font-weight: bold;
+    font-size: 28px;
 }
