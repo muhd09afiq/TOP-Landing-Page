@@ -151,3 +151,32 @@ figcaption {
     font-size: 28px;
     text-align: end;
 }
+
+.call-container {
+
+}
+
+.call-box {
+    background-color: #3882f6;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.call-text {
+
+}
+
+.call-bold {
+
+}
+
+.call-normal {
+
+}
+
+.call-box button{
+    margin-left: auto;
+}
