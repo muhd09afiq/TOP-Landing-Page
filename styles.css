@@ -132,7 +132,7 @@ figcaption {
 }
 
 .quote-container{
-    display: block;
+    /* display: block; */
     padding-left: 15%;
     padding-right: 15%;
     padding-bottom: 7rem;
