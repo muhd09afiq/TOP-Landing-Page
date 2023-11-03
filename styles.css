@@ -196,5 +196,11 @@ figcaption {
     border: 4px solid white;
     margin-bottom: auto;
     margin-top: auto;
+}
 
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    padding: 2%;
+    color: white;
 }
